@@ -1,4 +1,4 @@
-//Santosh Bhandari
+
 //Lab 6
 //Data Structure
 
